@@ -1,0 +1,22 @@
+{
+  "package": "com.quickgame.h16.huawei",
+  "name": "正统三国",
+  "icon": "D:\\CreatorProject2.4.8\\TestHuaWei\\icon.png",
+  "versionName": "2.50.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1035",
+  "manifestPath": "",
+  "deviceOrientation": "portrait",
+  "fullScreen": true,
+  "logLevel": "log",
+  "runRelease": false,
+  "appType": "fastgame",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "D:\\CreatorProject2.4.8\\TestHuaWei\\private.pem",
+  "certificatePath": "D:\\CreatorProject2.4.8\\TestHuaWei\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}
